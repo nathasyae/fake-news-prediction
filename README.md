@@ -4,13 +4,21 @@ The project aims to predict if a news is a fake news or not by analyzing its fea
 
 Team
 1. Farel Firman
+
 Github username : farelyue
+
 Email : jalanpolitikus@gmail.com
+
 2. Nadya Tjindra
+
 Github username : nadyatjindra
+
 Email : nadya.tjindra@gmail.com
+
 3. Nathasya Eliora
+
 Github username : nathasyae
+
 Email : elioranathasya@gmail.com
 
 
