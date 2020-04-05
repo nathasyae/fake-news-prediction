@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Fake News Prediction
 The project aims to predict if a news is a fake news or not by analyzing its features and characteristic. Includes exploratory data analysis, cleaning, feature extraction, and model comparison.
 
@@ -16,9 +15,8 @@ elioranathasya@gmail.com
 #About Dataset
 This project used Fake and real news datasets by nama orgnya. The datasets consists of two csvs, True.csv and Fake.csv. The dataset have title, text, subject, and date posted as attributtes. The dataset can be accessed here: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
-#References used
-=======
-# Fake News Prediction
+References used
+Fake News Prediction
 
 The project aims to predict if a news is a fake news or not by analyzing its features and characteristic. Includes exploratory data analysis, cleaning, feature extraction, and model comparison.
 
@@ -48,7 +46,6 @@ This project used Fake and Real news datasets. The datasets consists of two CSVs
 The dataset can be accessed here: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset.
 
 References used
->>>>>>> 3797a7be5f0c69b6f87ac8654bc94d124d959d54
 In doing the work we used these links as references.
 - https://www.kaggle.com/shahules/basic-eda-cleaning-and-glove
 - https://www.kaggle.com/c/quora-insincere-questions-classification/notebooks
@@ -60,8 +57,4 @@ In doing the work we used these links as references.
 Thank you.
 
 Assignment for Bangkit Machine Learning Academy.
-<<<<<<< HEAD
 April 2020
-=======
-April 2020
->>>>>>> 3797a7be5f0c69b6f87ac8654bc94d124d959d54
