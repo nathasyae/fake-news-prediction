@@ -1,7 +1,7 @@
-## Fake News Prediction ##
+# Fake News Prediction #
 The project aims to predict if a news is a fake news or not by analyzing its features and characteristic. This project includes exploratory data analysis, cleaning, feature extraction, and model comparison.
 
-# Team #
+## Team ##
 1. Farel Firman
   - Github username : farelyue
   - Email : jalanpolitikus@gmail.com
@@ -12,12 +12,12 @@ The project aims to predict if a news is a fake news or not by analyzing its fea
   - Github username : nathasyae
   - Email : elioranathasya@gmail.com
 
-# About Dataset #
+## About Dataset ##
 This project used Fake and Real news datasets. The datasets consists of two CSVs, which is True.csv and Fake.csv. The dataset consist of the columns title, text, subject, and date posted. 
 
 The dataset can be accessed here: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset.
 
-# References used #
+## References used ##
 In doing the work we used these links as references.
 - https://www.kaggle.com/shahules/basic-eda-cleaning-and-glove
 - https://www.kaggle.com/c/quora-insincere-questions-classification/notebooks
